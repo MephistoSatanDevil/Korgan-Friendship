@@ -11,7 +11,6 @@ Baldur's Gate Trilogy and EET<h3>
 
 
 **Authors:** Lava Del'Vortel and fluke13  
-**Mod Website:** <a href="http://www.spellholdstudios.net/ie/npciep">Spellhold Studios</a>  
 **Mod Forum:** <a href="http://www.shsforums.net/forum/656-korgan-friendship/">Korgan Friendship</a><br /><br />
 
 
@@ -36,7 +35,7 @@ One of the things many find sorely lacking in the Bioware NPCs are the more comp
 This mod adds a series of dialogues with Korgan.
 
 
-Visit the <a href="http://www.spellholdstudios.net/ie/npciep">website</a> or <a href="http://www.shsforums.net/forum/656-korgan-friendship/">forum</a> for all the latest updates.
+Visit the <a href="http://www.shsforums.net/forum/656-korgan-friendship/">forum</a> for all the latest updates.
 
 
 <hr>
